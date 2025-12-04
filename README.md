@@ -80,18 +80,29 @@ PRs and contributions are welcome to help implement these features.
 
 ## Usage:
 ### Build Instructions for github actions:
-1.fork this repo
+1. **Fork This Repository**
 
-2,first choose a desktop enviorment like
-gnome, xfce, kde, lxde, gnome-flashback, cinnamon, mate, and lxqt.
+   - Click the "Fork" button at the top right of this page to copy the repository into your own GitHub account.
 
-once you did navigate to branches 
-and choose from the listed
+2. **Choose a Desktop Environment**
 
+   - Supported desktop environments: `gnome`, `xfce`, `kde`, `lxde`, `gnome-flashback`, `cinnamon`, `mate`, or `lxqt`.
+   - Each desktop environment has its own branch in this repository.
 
+3. **Select the Relevant Branch**
 
-<img src="/website/assets/shimboot_demo_1.jpg" alt="list of branches." width="400"/>
-after that go to actions and start the build
+   - Click on the "Branch" dropdown in your forked repository.
+   - Choose the branch that matches your desired desktop environment (for example, `gnome`, `xfce`, etc.).
+
+   ![Branch List](website/assets/shimboot_demo_1.jpg)
+
+4. **Start the GitHub Actions Build**
+
+   - Go to the "Actions" tab at the top of the page.
+   - Select the workflow corresponding to your branch.
+   - Click "Run workflow" or "Start build".
+   - Wait for the build process to finish. The compiled image and logs will be available as workflow artifacts.
+
 
 ## FAQ:
 
