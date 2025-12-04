@@ -80,9 +80,12 @@ PRs and contributions are welcome to help implement these features.
 
 ## Usage:
 ### Build Instructions for github actions:
-first choose a desktop enviorment like
+1.fork this repo
+
+2,first choose a desktop enviorment like
 gnome, xfce, kde, lxde, gnome-flashback, cinnamon, mate, and lxqt.
-onece you did navigate to branches 
+
+once you did navigate to branches 
 and choose from the listed
 
 
