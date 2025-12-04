@@ -18,17 +18,13 @@ Shimboot is a collection of scripts for patching a Chrome OS RMA shim to serve a
 - [FAQ](#faq)
 - [Copyright](#copyright)
   * [Copyright Notice](#copyright-notice)
-## FORK FEATURES:
-## Fork Features
 
+##about:
 This fork is geared toward simplifying the process of building Shimboot images with various desktop environments and, ideally, different distros using GitHub Actions. The goal: one-click builds with maximum flexibility.
 
 
 
-## About:
-this forks purpose is to make it easy  building shimboot with diffrent desktops and hopefully diffrent distros in github actions
-
-### Partition Layout:
+## About### Partition Layout:
 1. 1MB dummy stateful partition
 2. 32MB Chrome OS kernel
 3. 20MB bootloader
