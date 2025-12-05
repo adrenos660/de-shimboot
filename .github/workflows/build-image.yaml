@@ -17,7 +17,7 @@ jobs:
     strategy: 
       matrix:
         board: [octopus]
-        distro: [bookworm, trixie, unstable, alpine]
+        
     runs-on: ubuntu-latest
     steps:
       - name: remove snap
