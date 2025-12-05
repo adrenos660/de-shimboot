@@ -76,8 +76,8 @@ A possible workaround for audio issues is using a USB sound card. Certain "USB t
 - Get audio to work on dedede
 - Get kexec working
 
-PRs and contributions are welcome to help implement these features.
-
+## if you do not wanna build in github actions Read the official README:
+Trust me, it helps a lot. It might be confusing at first but its really not that hard. Just follow the steps in the video/readme and you should be set. Also, a lot of frequently asked questions are probably covered in the official github's FAQ section of the readme. Definitely watch the video posted on the readme as well, super helpful. https://github.com/ading2210/shimboot
 ## Usage:
 ### Build Instructions for github actions:
 1. **Fork This Repository**
